@@ -4,3 +4,13 @@ description: >-
   Computational cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
 theme: jekyll-theme-minimal
+
+
+# Page navigation
+navigation:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv
+  - title: Projects
+    url: /projects
