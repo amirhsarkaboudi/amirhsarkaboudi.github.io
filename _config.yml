@@ -3,9 +3,14 @@ email: your@email.com
 description: >-
   Cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
-theme: jekyll-theme-cayman
 
-# Page navigation
+# Use this if you're sticking to built-in themes (like cayman or minimal)
+# theme: jekyll-theme-cayman
+
+# Use this only if you're building locally with a custom Gemfile
+# theme: bay_jekyll_theme
+
+# Custom navigation (only works if your theme supports it or you add it manually in layout)
 navigation:
   - title: Home
     url: /
