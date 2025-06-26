@@ -3,20 +3,16 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="/" style="padding: 10px 20px; background-color: #f2f2f2; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Home</a>
-  <a href="/cv" style="padding: 10px 20px; background-color: #f2f2f2; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">CV</a>
-  <a href="/projects" style="padding: 10px 20px; background-color: #f2f2f2; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Projects</a>
+<!-- Tabs on top right -->
+<div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 10px; margin-bottom: 30px;">
+  <a href="/" style="padding: 8px 16px; background-color: #f9f9f9; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Home</a>
+  <a href="/cv" style="padding: 8px 16px; background-color: #f9f9f9; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">CV</a>
+  <a href="/projects" style="padding: 8px 16px; background-color: #f9f9f9; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Projects</a>
 </div>
 
 # 🌐 Amir Sarkaboudi
 
 Welcome to my personal academic website!
-
----
-
-## 🚀 Navigation
-
 
 ---
 
