@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # 🌐 Amir Sarkaboudi
 
 This is the source code for my personal academic website:  
