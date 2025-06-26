@@ -1,5 +1,5 @@
 title: Amir Sarkaboudi
-email: your@email.com
+email: amirsarkaboudi@asu.edu
 description: >-
   Cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
@@ -13,3 +13,5 @@ navigation:
     url: /cv
   - title: Projects
     url: /projects
+  - title: Talks
+    url: /talks
