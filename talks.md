@@ -17,7 +17,7 @@ title: Talks
 
 ## 🖼️ Related Visual
 
-<img src="/assets/talks/naming_game_network.png" alt="Naming Game Network Example" width="600"/>
+<img src="/assets/Brownbag1.jpg" alt="Naming Game Network Example" width="600"/>
 
 ---
 
