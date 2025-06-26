@@ -3,8 +3,7 @@ email: your@email.com
 description: >-
   Computational cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
-theme: jekyll-theme-minimal
-
+theme: jekyll-theme-cayman
 
 # Page navigation
 navigation:
