@@ -1,4 +1,4 @@
-# 🌐 Amir Sarkaboudi's Website
+# 🌐 Amir Sarkaboudi
 
 This is the source code for my personal academic website:  
 📍 [amirhsarkaboudi.github.io](https://amirhsarkaboudi.github.io)
