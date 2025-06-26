@@ -5,7 +5,7 @@ description: >-
 github_username: amirhsarkaboudi
 
 # Use this if you're sticking to built-in themes (like cayman or minimal)
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 
 # Use this only if you're building locally with a custom Gemfile
 # theme: bay_jekyll_theme
