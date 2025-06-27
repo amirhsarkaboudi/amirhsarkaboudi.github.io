@@ -10,10 +10,6 @@ title: Home
   <a href="/talks" style="padding: 8px 16px; background-color: #f9f9f9; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Talks</a>
 </div>
 
-# 🌐 Amir Sarkaboudi
-
-Welcome to my personal academic website!
-
 ---
 
 ## 🧠 About Me
