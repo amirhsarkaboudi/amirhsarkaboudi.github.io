@@ -5,15 +5,19 @@ description: >-
 github_username: amirhsarkaboudi
 theme: jekyll-theme-minimal
 
-# Optional: add author info
+# Author info (optional, but useful)
 author:
   name: Amir Sarkaboudi
   email: amirsarkaboudi@asu.edu
 
-# Optional: social links
-linkedin_url: https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251/
+# Social links (custom keys for your use in HTML)
+social_links:
+  - title: GitHub
+    url: https://github.com/amirhsarkaboudi
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251/
 
-# Navigation (for your own tab system — not used by minimal theme directly)
+# Tabs for manual nav bar on homepage (not used by the theme itself)
 navigation:
   - title: Home
     url: /
