@@ -5,7 +5,15 @@ description: >-
 github_username: amirhsarkaboudi
 theme: jekyll-theme-minimal
 
+# Optional: add author info
+author:
+  name: Amir Sarkaboudi
+  email: amirsarkaboudi@asu.edu
 
+# Optional: social links
+linkedin_url: https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251/
+
+# Navigation (for your own tab system — not used by minimal theme directly)
 navigation:
   - title: Home
     url: /
