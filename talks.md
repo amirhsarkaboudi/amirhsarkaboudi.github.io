@@ -13,7 +13,7 @@ title: Talks
   <img src="/assets/CogSci2025Poster.jpg" alt="CogSci 2025 Poster" style="width: 100%; border-radius: 5px;">
   <h3 style="margin-top: 12px;">🗓️ August 2025</h3>
   <strong>Poster at CogSci 2025</strong><br>
-  <em>Annual Meeting of the Cognitive Science Society, Toronto</em>
+  <em>Annual Meeting of the Cognitive Science Society, San Fransisco</em>
   <p style="margin-top: 10px;"><strong>Title:</strong><br>
   <em>How Communicative Pressure Shapes Social Networks:  
   An Agent-Based Model of Language–Network Co-Evolution using the Naming Game</em></p>
