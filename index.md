@@ -12,17 +12,16 @@ title: Home
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a computational cognitive scientist interested in:
+I'm a computational cognitive science researcher with a background in physics and complex systems, currently pursuing an M.S. in Psychology at Arizona State University.
 
-- Agent-based modeling of culture and language  
-- Network dynamics and social learning  
-- Bayesian modeling and cognitive science  
-- Applications to social media, communication, and complexity
+I work in the lab of Dr. Ben Falandays, where I study the co-evolution of culture and social networks using agent-based modeling and Bayesian approaches to learning and communication. I build large-scale simulations in Julia, Python, and R to investigate how communicative success, category structure, and social connectivity interact over time and shape culture.
+
+My research spans data-driven modeling, sentiment analysis, and network science, with the goal of contributing to theory-building at the intersection of cultural evolution, cognition, and computational social science.
 
 ---
 
-## 📬 Contact
+## Contact
 
-Feel free to reach out via [email](mailto:your@email.com) or [GitHub](https://github.com/amirhsarkaboudi).
+Feel free to reach out via [email](mailto:your@email.com) 
