@@ -12,13 +12,17 @@ title: Home
 
 ---
 
-##  About Me
+## About Me
 
-I'm a computational cognitive science researcher with a background in physics and complex systems, currently pursuing an M.S. in Psychology at Arizona State University.
+I'm a computational cognitive science researcher with a background in physics and complex systems, currently pursuing an M.S. in Psychology at Arizona State University. I work in the [PALM Lab](https://palm.lab.asu.edu/) under the supervision of [Dr. Ben Falandays](https://jbfalandays.com/).
 
-I work in the lab of Dr. Ben Falandays, where I study the co-evolution of culture and social networks using agent-based modeling and Bayesian approaches to learning and communication. I build large-scale simulations in Julia, Python, and R to investigate how communicative success, category structure, and social connectivity interact over time and shape culture.
+---
 
-My research spans data-driven modeling, sentiment analysis, and network science, with the goal of contributing to theory-building at the intersection of cultural evolution, cognition, and computational social science.
+## Research Focus
+
+I study the co-evolution of culture and social networks using agent-based modeling and Bayesian approaches to learning and communication. I build large-scale simulations in Julia, Python, and R to investigate how communicative success, category structure, and social connectivity interact over time and shape culture.
+
+My work spans data-driven modeling, sentiment analysis, and network science, with the goal of contributing to theory-building at the intersection of cultural evolution, cognition, and computational social science.
 
 ---
 
