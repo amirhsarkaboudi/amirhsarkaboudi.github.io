@@ -3,16 +3,16 @@ layout: default
 title: Projects
 ---
 
-# 🧪 Projects
+# Projects
 
-## 🧠 Language & Network Co-evolution  
+##  * Language & Network Co-evolution  
 > *Details coming soon*
 
 A large-scale agent-based simulation exploring how communicative success shapes social network structure and how networks, in turn, influence linguistic convergence.
 
 ---
 
-## 💸 Social Media & Perception of Wealth  
+## * Social Media & Perception of Wealth  
 **Visual Wealth Cue Detection in Instagram Posts**  
 *Python • Florence-2 • OCR • GPT-4o • Computer Vision • Multimodal Analysis*
 
