@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+> ⚠️ **Note**: This website is currently being updated and migrated to a new template.  
+> Some content may be incomplete or temporarily unavailable — thank you for your patience!
 
 <!-- Tabs on top right -->
 <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 10px; margin-bottom: 30px;">
