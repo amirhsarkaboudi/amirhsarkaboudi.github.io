@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- Profile image inserted here -->
+        <img src="/assets/20250324_171905.png" alt="Amir Sarkaboudi" style="width: 140px; border-radius: 8px; margin-bottom: 10px;">
+
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+
+        {% if site.github_username %}
+          <p><a href="https://github.com/{{ site.github_username }}">View My GitHub Profile</a></p>
+        {% endif %}
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
