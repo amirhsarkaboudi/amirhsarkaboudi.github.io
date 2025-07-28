@@ -5,6 +5,18 @@ description: >-
   Cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
+
+# Add this to override theme CSS
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: /assets/css/style.scss
+
 
 
 
