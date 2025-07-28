@@ -10,10 +10,6 @@ title: Home
   <a href="/talks" style="padding: 8px 16px; background-color: #f9f9f9; border-radius: 5px; text-decoration: none; border: 1px solid #ccc;">Talks</a>
 </div>
 
-<!-- Profile image centered -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="/assets/20250324_171905.png" alt="Amir Sarkaboudi" style="width: 180px; border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-</div>
 
 
 ---
