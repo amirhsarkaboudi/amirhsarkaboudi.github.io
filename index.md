@@ -28,4 +28,4 @@ My work spans data-driven modeling, sentiment analysis, and network science, wit
 
 ## Contact
 
-Feel free to reach out via [email](mailto:your@email.com) 
+Feel free to reach out via [email](mailto:asarkabo@asu.edu) 
