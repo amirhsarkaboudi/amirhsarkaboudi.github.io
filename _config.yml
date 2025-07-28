@@ -3,7 +3,8 @@ email: amirsarkaboudi@asu.edu
 description: >-
   Cognitive science | Agent-based modeling | Network dynamics
 github_username: amirhsarkaboudi
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: null
 
 # Author info (optional, but useful)
 author:
