@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Psychology</p>
+    <p>School of Social and Behavioural Sciences </p>
     <p>Arizona State University</p>
     <p>Tempe, AZ, USA</p>
 
