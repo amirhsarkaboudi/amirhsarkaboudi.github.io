@@ -462,11 +462,11 @@ ninja.data = [{
           window.open("mailto:%61%73%61%72%6B%61%62%6F@%61%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251/", "_blank");
         },
       },{
         id: 'social-rss',
