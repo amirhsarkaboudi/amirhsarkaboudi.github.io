@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>School of Social and Behavioral Sciences</p>
     <p>Arizona State University</p>
-    <p>Tempe, AZ, USA</p>
+    <p>Glendale, AZ, USA</p>
 
 selected_papers: false
 social: true
