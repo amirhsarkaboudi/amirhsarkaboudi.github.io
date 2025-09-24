@@ -476,11 +476,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251", "_blank");
         },
       },{
-        id: 'social-google_scholar_id',
-        title: 'Google_scholar_id',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=LvGzLxAAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
