@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Arizona State University</a> · M.S. Psychology · Cognitive Science & Cultural Evolution
+subtitle: <a href='#'>Arizona State University</a> · M.S. Psychology #· Cognitive Science & Cultural Evolution
 
 profile:
   align: right
