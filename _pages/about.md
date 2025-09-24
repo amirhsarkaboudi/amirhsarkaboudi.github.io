@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Arizona State University</a>. M.S. Psychology Student. Computational Cognitive Science & Cultural Evolution.
+subtitle: <a href='#'>Arizona State University</a>. M.S. Psychology Student. Cognitive Science & Cultural Evolution.
 
 profile:
   align: right
