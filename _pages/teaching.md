@@ -1,12 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching assistantships and course assistantships at Arizona State University and Shahid Beheshti University.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Arizona State University · Tempe, USA
 
-Organize your courses by years, topics, or universities, however you like!
+- **Teaching Assistant**: Behavioral Data Science II (Spring 2026, upcoming)  
+- **Teaching Assistant**: Behavioral Data Science I (Fall 2025)  
+- **Course Assistant**: Research Methods in Psychology (Fall 2025)  
+- **Course Assistant**: Learning and Motivation (Summer 2025)  
+
+---
+
+## Shahid Beheshti University · Tehran, Iran
+
+- **Teaching Assistant**: Complex Systems (Fall 2023)  
+- **Head Teaching Assistant**: General Physics II – Electromagnetism (Spring 2023)  
+- **Head Teaching Assistant**: General Physics I – Mechanics (Fall 2022)  
+
+---
