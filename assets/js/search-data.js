@@ -466,7 +466,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251/", "_blank");
+          window.open("https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251", "_blank");
         },
       },{
         id: 'social-rss',
