@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='#'>Arizona State University</a>. M.S. Psychology Student. Computational Cognitive Science & Cultural Evolution.
 
