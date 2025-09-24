@@ -39,5 +39,5 @@ My academic background is in **physics and complex systems**, and my research fo
 My work investigates the **co-evolution of language, culture, and social networks** through agent-based modeling and Bayesian approaches to learning and communication.  
 I develop large-scale simulations to examine how **communicative success, category structure, and patterns of social connectivity** interact to shape cultural dynamics.
 
-In addition to modeling, I work on multimodal data projects, including **social media analysis of wealth perception** and **network-based models of cultural specialization and alignment**.  
-Broadly, my goal is to advance our understanding of how **communication processes and social structures jointly produce collective intelligence**.
+<!-- In addition to modeling, I work on multimodal data projects, including **social media analysis of wealth perception** and **network-based models of cultural specialization and alignment**.  
+Broadly, my goal is to advance our understanding of how **communication processes and social structures jointly produce collective intelligence**. -->
