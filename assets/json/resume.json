@@ -1,200 +1,172 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  // "basics": {
+  //   "name": "Amirhossein Sarkaboudi",
+  //   "label": "M.S. Psychology Student",
+  //   "image": "",
+  //   "email": "amirsarkaboudi@asu.edu",
+  //   "phone": "",
+  //   "url": "https://amirhsarkaboudi.github.io",
+  //   "summary": "Second-year M.S. student in Psychology at Arizona State University with a background in physics and complex systems. Research focuses on computational cognitive science, cultural evolution, and network science using agent-based modeling and Bayesian approaches.",
+  //   "location": {
+  //     "city": "Glendale",
+  //     "region": "Arizona",
+  //     "countryCode": "US"
+  //   },
+  //   "profiles": [
+  //     { "network": "GitHub", "username": "amirhsarkaboudi", "url": "https://github.com/amirhsarkaboudi" },
+  //     { "network": "Google Scholar", "username": "LvGzLxAAAAAJ", "url": "https://scholar.google.com/citations?user=LvGzLxAAAAAJ" },
+  //     { "network": "LinkedIn", "username": "amirhossein-sarkaboudi-569003251", "url": "https://www.linkedin.com/in/amirhossein-sarkaboudi-569003251" }
+  //   ]
+  // },
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Arizona State University",
+      "location": "Tempe, USA",
+      "studyType": "M.S.",
+      "area": "Psychology (Cognition, Behavior and Information)",
+      "startDate": "2024-08-01",
+      "endDate": "2026-06-01",
+      "summary": "Advisor: Dr. J. Benjamin Falandays; Committee: Dr. Thomas Morgan, Dr. Derek Powell. Thesis: Network Structure and Language Evolution: From Coordination to Cumulative Culture."
+    },
+    {
+      "institution": "Shahid Beheshti University",
+      "location": "Tehran, Iran",
+      "studyType": "B.Sc.",
+      "area": "Physics",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-01",
+      "summary": "Supervisor: Dr. G. Reza Jafari. Coursework in Complex Systems, Stochastic Processes, Artificial Intelligence, and Numerical Simulations."
     }
   ],
-  "awards": [
+
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "PALM Lab, Arizona State University",
+      "position": "Graduate Researcher",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Develop agent-based models of cultural evolution and language emergence; investigate co-evolution of networks and communication using Bayesian learning."
     }
   ],
-  "certificates": [
+
+  // "teaching": [
+  //   {
+  //     "institution": "Arizona State University",
+  //     "location": "Tempe, USA",
+  //     "roles": [
+  //       "Teaching Assistant: Behavioral Data Science II (Spring 2026, upcoming)",
+  //       "Teaching Assistant: Behavioral Data Science I (Fall 2025)",
+  //       "Course Assistant: Research Methods in Psychology (Fall 2025)",
+  //       "Course Assistant: Learning and Motivation (Summer 2025)"
+  //     ]
+  //   },
+  //   {
+  //     "institution": "Shahid Beheshti University",
+  //     "location": "Tehran, Iran",
+  //     "roles": [
+  //       "Teaching Assistant: Complex Systems (Fall 2023)",
+  //       "Head Teaching Assistant: General Physics II - Electromagnetism (Spring 2023)",
+  //       "Head Teaching Assistant: General Physics I - Mechanics (Fall 2022)"
+  //     ]
+  //   }
+  // ],
+
+  "research": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Co-evolution of Language and Networks through Agent-Based Modeling",
+      "advisor": "J. Benjamin Falandays, Ph.D.",
+      "dates": "Aug 2024 – Present",
+      "highlights": [
+        "Large-scale ABMs of communicative success and cultural convergence",
+        "Dynamic network mechanisms (preferential attachment, triadic closure)",
+        "Metrics for complexity, stability, and alignment",
+        "Poster presented at CogSci 2025"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Wealth Perception in Inequality: Digital Trace Data",
+      "advisor": "Hilke Brockmann, Ph.D.",
+      "dates": "Jun 2025 – Present",
+      "highlights": [
+        "Multimodal AI pipeline (Florence-2, GPT-4o, OCR) to detect wealth cues",
+        "Sentiment analysis and topic modeling of Instagram discourse"
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Community Detection in Political Twitter Networks",
+      "advisor": "G. Reza Jafari, Ph.D.",
+      "dates": "Jul 2023 – Sep 2023",
+      "highlights": [
+        "Detected opinion communities in Iranian election discourse",
+        "Network visualization with Gephi; polarization analysis"
+      ]
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+
+  // "conferences": [
+  //   {
+  //     "name": "Cognitive Science Society, Annual Meeting 2025",
+  //     "title": "Network dynamics in language evolution: Agent-based modeling of coordination games and cumulative culture",
+  //     "authors": "Sarkaboudi, A., & Falandays, J.B.",
+  //     "type": "Poster"
+  //   },
+  //   {
+  //     "name": "ISA Forum of Sociology 2025, Rabat, Morocco",
+  //     "title": "The Super-Rich Within Reach? Self-Presentation and Common Reception of Wealth in Cyberspace",
+  //     "authors": "Brockmann, H., Piñeyrúa, F., Sarkaboudi, A., & Smaldone, F."
+  //   }
+  // ],
+
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Computational Modeling",
+      "keywords": ["Agent-based modeling (Agents.jl, NetLogo)", "Bayesian inference", "Stochastic processes", "Monte Carlo methods"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Programming & HPC",
+      "keywords": ["Julia", "Python", "R", "Bash", "Parallel and distributed computing"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Data Science & Network Analysis",
+      "keywords": ["Pandas", "NumPy", "Tidyverse", "Statistical modeling", "NetworkX", "MetaGraphs.jl", "Gephi"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Machine Learning & AI",
+      "keywords": ["Neural networks", "Deep learning fundamentals", "Multimodal analysis", "Sentiment analysis", "Computer vision", "OCR", "LLMs"]
     }
   ]
+
+  // "summerSchools": [
+  //   {
+  //     "institution": "Constructor University Bremen",
+  //     "location": "Bremen, Germany",
+  //     "name": "Wealth Data Science Summer School",
+  //     "year": 2024,
+  //     "focus": "Computational social science methods for studying inequality through digital trace data"
+  //   },
+  //   {
+  //     "institution": "Institute for Research in Fundamental Sciences (IPM)",
+  //     "location": "Tehran, Iran",
+  //     "name": "School of Evolutionary Dynamics of Cells and Viruses",
+  //     "year": 2023,
+  //     "focus": "Mathematical biology and evolutionary game theory"
+  //   }
+  // ],
+
+  // "projects": [
+  //   {
+  //     "name": "Bachelor Projects",
+  //     "year": 2023,
+  //     "highlights": [
+  //       "Monte Carlo Simulation of the 2D Ising Model with Finite-Size Scaling",
+  //       "ABM Flocking Model Simulation",
+  //       "Simulation of Disease Spread on Random Networks",
+  //       "Prey–Predator Population Dynamics Simulation",
+  //       "Markov Chain Simulation: Hitting Probabilities and Stationary Distributions",
+  //       "Fractal Image Generation and Box-Counting Dimension Analysis"
+  //     ],
+  //     "url": "https://github.com/amirhsarkaboudi/Bachelor-Projects"
+  //   }
+  // ]
 }
