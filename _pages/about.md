@@ -29,7 +29,7 @@ latest_posts:
 
 ## About Me
 
-I am a second-year M.S. student in Psychology at Arizona State University, advised by [Dr. Ben Falandays](https://jbfalandays.com/). My academic background is in physics and complex systems, and my research  is on the intersection of cognitive science, Bayesian Learning, and network science.
+I am a second-year M.S. student in Psychology at Arizona State University, advised by [Dr. Ben Falandays](https://jbfalandays.com/). My academic background is in physics and complex systems, and my research interest is on the intersection of cognitive science, Bayesian Learning, and network science.
 
 ---
 
