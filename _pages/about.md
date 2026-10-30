@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Arizona State University</a> · M.S. Psychology #· Cognitive Science & Cultural Evolution
+subtitle: <a href='https://as.nyu.edu/departments/psychology.html'>New York University</a> · Ph.D. Student, Cognition & Perception
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false
   more_info: >
-    <p>School of Social and Behavioral Sciences</p>
-    <p>Arizona State University</p>
-    <p>Glendale, AZ, USA</p>
+    <p>Department of Psychology</p>
+    <p>New York University</p>
+    <p>New York, NY, USA</p>
 
 selected_papers: false
 social: true
@@ -29,16 +29,15 @@ latest_posts:
 
 ## About Me
 
-I am a second-year M.S. student in Psychology at Arizona State University, advised by [Dr. Ben Falandays](https://jbfalandays.com/). My academic background is in physics and complex systems, and my research interest is on the intersection of cognitive science, Bayesian Learning, and network science.
+I am a first-year Ph.D. student in Cognition and Perception at New York University, where I work with [Noga Zaslavsky](https://www.nogsky.com/) in the InfoCog Lab. I completed my M.S. in Psychology at Arizona State University with [Ben Falandays](https://jbfalandays.com/), studying cumulative cultural evolution through Bayesian learning. My background is in physics: my B.S. at Shahid Beheshti University in Iran shaped my interest in complexity and emergent phenomena.
 
 ---
 
 ## Research Focus
 
-My work investigates the co-evolution of language, culture, and social networks through agent-based modeling and Bayesian approaches to learning and communication.  
-I develop large-scale simulations to examine how communicative success, category structure, and patterns of social connectivity interact to shape cultural dynamics.
+I am interested in how language and mental representations evolve in humans and machines.
 
-I welcome opportunities for collaboration, discussion, or questions so feel free to [contact me via email](mailto:asarkabo@asu.edu).
+I welcome opportunities for collaboration, discussion, or questions so feel free to [contact me via email](mailto:as22762@nyu.edu).
 
 
 <!-- In addition to modeling, I work on multimodal data projects, including **social media analysis of wealth perception** and **network-based models of cultural specialization and alignment**.  
